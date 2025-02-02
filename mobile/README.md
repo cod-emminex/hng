@@ -15,3 +15,18 @@ Flutter/React Native/Swift/Kotlin]
 1. Clone the repository
    ```bash
    git clone https:
+
+   [Framework-specific setup instructions]
+[Build and run instructions]
+Testing the App
+The app can be tested using Appetize.io at: [Your Appetize.io link will go here]
+
+Links
+GitHub Repository
+HNG Links:
+[Flutter Developers]
+[React Native Developers]
+[Mobile Developers]
+[Telex]
+[Delve]
+
